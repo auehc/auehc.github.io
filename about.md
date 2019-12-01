@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are technically a subclub under Auburn's Association for Computing Machinery (ACM). But Auburn's ACM's EHC is a lot of text...
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Contact us
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+President - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Vice President - DeMarcus Campbell: [dec0013@auburn.edu](mailto:dec0013@auburn.edu)
