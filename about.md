@@ -15,3 +15,9 @@ in 2015.
 President - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
 
 Vice President - DeMarcus Campbell: [dec0013@auburn.edu](mailto:dec0013@auburn.edu)
+
+Treasure - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
+
+Technical Lead - Charlie Harper: [cah0111@auburn.edu](mailto:cah0111@auburn.edu)
+
+Technical Lead - Drew Batten: [akb0046@auburn.edu](mailto:akb0046@auburn.edu)
