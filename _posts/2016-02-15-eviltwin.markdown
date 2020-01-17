@@ -1,0 +1,40 @@
+---
+layout: post
+tagline:  "Rogue Access Point Attacks"
+date:   2016-02-15
+categories: Meetings
+---
+
+This week, Matthew talked about Rogue Access Point attacks, specifically Evil Twin and Karma Attacks on Wireless Access Points and showed a /quick/ demo of a Evil Twin Attack. These attacks are a mix of wireless hacking and social engineering, and rely on tricking people and machines into thinking that you are someone else.
+
+## Evil Twin Attack
+
+# What is it?
+
+Evil Twin attacks are targetted wireless attacks, usually in spaces where a bunch of people would connect, like a local Starbucks. They are basically phishing attempts, where you host an access point in a public place, and pretend to be a legitimate access point. If you're in Starbucks and they have a "Starbucks WiFi" running on channel 6, then you would host a connection with the same name and channel, but since you might be closer to hosts, they'll jump to your connection and you can do whatever you want with their packets. This is a targeted attack that's pretty easy to set up, and pretty difficult to detect unless you're looking for it.
+
+The one disadvantage of using an evil twin attack is that you can't use it to spoof a protected network out of the box, that will take a little work; involving deauthing the secure network and launching a MITM attack.
+
+# Evil Twin Detection
+
+The most common way to detect evil twins is using whitelisting through bssid and mac address. Basically, set up a list of legitimate access points, sniff for probe responses, if the probe not in whitelist then you know it is a rogue access point. Something like that can be set up on a network in an IPS (Intrusion Prevention System). The problem with this is that it doesn't get past mac/bssid spoofing.
+
+As another layer of detection, we can pay attention to signal strength, since wireless access points don't tend to move around much, so the signal strength from specific locations shouldn't change. Therefore, you can detect a baseline signal strength, and see if there are any dramatic changes and deauth those signals.
+
+## Karma Attacks
+
+Karma attacks are similar to Evil Twin attacks, the main difference being that they are not targetted. The listen for probe requests and pretend to be anything that's asked for. If this rogue access point is in between a Starbucks and a McDonalds, then anyone asking for either WiFi connection could end up on the attacker's AP instead.
+
+The advantage of using a Karma attack is that it has simpler setup for what it does. Without the need to target a specific setting, you can just set it up, put it out there, and it will try and catch anything it can. The disadvantage is that it is easier to detect. Let's say you go into a bar and you ask if "Jeramy" is in the bar, and some guy in the back stands up and says "That's me!" Then you ask if "Matt" is in the bar, and the same guy stands up and says "That's me!". He's probably lying.
+
+
+As you can see, setting up either of these attacks can be done with relative ease, just using some [python scripts][scripts].
+
+[Slides](/assets/powerpoints/eviltwin.pptx)
+[Source][source]
+
+
+
+[source]: http://www.irongeek.com/i.php?page=videos/bsideshuntsville2016/101-slaying-rogue-access-points-with-python-and-cheap-hardware-gabriel-ryan
+[slides]: https://drive.google.com/file/d/0B6SAWzcUht5YLWlQcEJLRkVQOXlGYklmQzBVc0preTRhTExV/view?usp=sharing
+[scripts]: https://github.com/s0lst1c3/evil_twin

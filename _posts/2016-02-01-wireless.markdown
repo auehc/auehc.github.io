@@ -1,0 +1,98 @@
+---
+layout: post
+tagline:  "Wireless Protocols and WEP Cracking"
+date:   2016-02-01
+categories: Meetings
+---
+
+The second meeting started off with a simple discussion on Wireless Security Protocols, from OSA to WPA2. Then we went over the various ways to crack into these protocols using [Aircrack-ng][aircrack].
+
+## History of Wireless Security
+
+# OSA vs SKA (1997)
+
+When wireless was first becoming something worth looking at, security was in the very back of the mind of the innovators, therefore, the first protocols that came out for authentication were near useless. Open System Association, or OSA, was a complete free-for-all, similar to "open" wireless networks today. Shared Key Authentication, or SKA, used an auth protocol called WEP (Wireless Equivalent Protocol), which seemed good at the time, but ended up having tons of problems.
+
+WEP is bad for a number of reasons
+
+*	Use of a streaming algorithm (RC4)
+	-	RC4 is a stream cipher, used in synchronous mode which requires key generators on each side of communication to be kept in sync or data is lost. What's not good at staying in sync? Wireless.
+*	Per-packet master key re-use
+	-	In order to help some of the pitfalls of synchronous mode, WEP sends the master key between the end points at every single packet, which causes a ton of of exposure to attackers.
+	-	More exposure is obviously less secure.
+*	Limited number of secret keys
+	-	The small amount of secret keys (1-4) that WEP provided a network made it so all access points were forced to share those few keys. No matter how many hosts are on the network, they'll use those keys, leading to a lack of integrity for who did what.
+*	No network to client authentication
+	-	WEP didn't have a way for the network to authenticate to the client, proving it was who it said it was.
+	-	Basically Man in the Middle attacks became really easy since there isn't a guarentee the access point you just connected to was legit.
+*	Lack of header protection
+	-	Since headers weren't checked by the integrity checker system, you can capture and change the header of any packet on the network
+	- 	Easily susceptible to Redirection Attacks. Ex: Capture a packet destined for a host, change the header to make yourself the destination, send the packet to the access point to become unencrypted, based on the header the access point would send you the now unencrypted packet.
+*	Lack of timestamps or sequence numbers
+	-	Since there was no integrity checking on when a packet was sent, replay attacks were trivial since you could capture one packet and send it over and over again. Compare it to buying something on Amazon for $5.00, if an attacker captured that 'packet', they could charge your card $5.00 as many times as they wanted.
+
+For these reasons, and a couple of others, there were some obvious improvements that needed to be made, which led to WPA.
+
+# WPA (2003)
+
+WPA (WiFi Protected Access) was both an attempt to get WEP right this time, and to start some organization and standardization in the movement towards wireless. One of the hardest stipulations WPA had was that it needed to use the same hardware WEP used, but be more effective. This led to standardization among hardware vendors in the form of the "WiFi Alliance" and an IEEE group (802.11i) focused on increasing security.
+
+Some of the main enhancements of WPA over WEP had to do with it's integrity checking.
+
+*	Increased the size of Initialization Vector (IV) from 24 to 50, leading to more secure keys.
+*	Keys generated on a per-session basis rather that per-packet, which exposed it way less.
+*	Use of TKIP (Temporal Key Integrity Protocol), which guarenteed each packet was sent with a unique key, but is still slightly vulnerable.
+*	Addition of packet sequence numbers which mitigated replay attacks.
+*	Integrity checking of header which mitigated redirection attacks.
+
+WPA was a step in the right direction, but the need for a strong encryption algorithm and movements towards better hardware still left leeway for improvement.
+
+# WPA2 (2004)
+
+WPA2 (WiFi Protected Access II) had access to non-legacy hardware the let it use more in-depth security features that were needed for a modern wireless authentication protocol. Some of the biggest changes included:
+
+*	Transition to AES from RC4
+*	Enhanced Integrity Checking
+	*	Leveraged AES in order to replace TKIP with CCMP (Counter Mode Cipher Block Chaining Message Authentication Code Protocol)
+		* (Encryption Encapsulation)
+* Secure key establishment and authentication
+
+That's where we are at today, basically.
+
+## Aircrack-ng for cracking wireless
+
+Aircrack is the premier wireless suite for assessing WiFi network security and is capable of monitoring, attacking, testing, and cracking wireless networks.
+
+# Cracking WEP
+
+Cracking WEP with Aircrack turns out to be pretty simple, all you need is Kali Linux, to be close enough to an access point running WEP, something talking on the network, and a wireless card/adapter that supports packet injection.
+
+Firstly, you need to check the wireless capabilities of your box. You should see something with wireless capabilities like 'wlan0'
+
+	iwconfig
+
+Next we need to set that card to monitor mode, for example, with 'wlan0' and start actively monitoring for networks
+
+	airmon-ng start wlan0
+	airodump-ng mon0
+
+We're searching for the MAC address and channel of the access point we're hoping to crack, which will appear in the top section of the output of airodump-ng. Using this info we can start monitoring that network specifically for packets.
+
+	airodump-ng --bssid "mac" -c "channel" -w WEPCrack mon0
+
+Once you've found some packets being transferred on the network, you can grab the mac address of a host on the network and do a replay attack to generate keys. Open another console and run:
+
+	aireplay-ng -3 -b "AP mac" -h "Host mac" mon0
+
+After the #DATA column in your first console gets to a sizable number (15,000 + ), which should take 3-5 minutes. You can use aircrack to crack the data file.
+
+	aircrack-ng WEPCrack-01.cap
+
+If you have enough data for aircrack, then it should have no problem spitting out the key.
+
+
+If you're givin a WPA pcap in a CTF, running a rule based brute force attack with Hashcat/oclHashcat on the pcap seems to be much faster that using aircrack-ng's dictionary attacks. (3 minutes vs 2 hours)
+
+[Slides](/assets/powerpoints/wireless.odp)
+
+[aircrack]: http://www.aircrack-ng.org/

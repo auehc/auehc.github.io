@@ -1,0 +1,15 @@
+---
+layout: post
+tagline:  "The Exploitation Process"
+date:   2017-09-13
+categories: Meetings
+---
+
+This week Matthew went over our plan for the semester and the EVAPI exploitation process
+EVAPI stands for Enumeration, Vuln Scanning, Access, Privilege Escalation, and Implant
+
+As our main focus is hacking consumer IoT devices, we will be light on enumeration, and focus mostly on getting Access.
+For some practice with binary exploitation / reversing, the flare-on challenge is a good resource.
+
+
+[Slides](/assets/powerpoints/EHC_9-13-2017_Exploitation.pptx) 
