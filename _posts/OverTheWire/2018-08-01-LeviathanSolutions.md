@@ -1,10 +1,11 @@
 ---
-layout: post
 title:  "Leviathan Walkthrough"
 permalink: /overthewire/leviathan
+author: demarcus
+categories: write_ups
+tags: overthewire
 ---
 
-AUTHOR: DeMarcus Campbell
 
 This is a write-up for OverTheWire Leviathan.
 I am writing this under the assumption that you have

@@ -1,10 +1,11 @@
 ---
-layout: post
 title:  "Bandit Walkthrough"
 permalink: /overthewire/bandit
+author: demarcus
+categories: write_ups
+tags: overthewire
 ---
 
-AUTHOR: DeMarcus Campbell
 
 
 

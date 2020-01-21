@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Start Here!"
 permalink: /start-here/start-here
 ---
