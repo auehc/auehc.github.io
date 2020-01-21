@@ -2,7 +2,7 @@
 title: "Auburn's Ethical Hacking Club's Blog"
 layout: splash
 
-date: 2016-03-23T11:48:41-04:00
+date: 2020-01-20
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
