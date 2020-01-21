@@ -1,6 +1,4 @@
 main:
-  - title: "Start Here"
-    url: /start-here
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -9,4 +7,3 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  
