@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Kickoff Meeting for fall of 2016!"
 date:   2016-08-30
-categories: Meetings
+categories: archived
+author: auctf
+tags: kickoff
 ---
 
 This week we went over the basics of our vision of the club this semester, as well as some ethics and other clerical stuff.  

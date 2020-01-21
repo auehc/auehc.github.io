@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline: "Web Exploitation: DVWA"
 date: 2016-10-25
-categories: Meetings
+categories: archived
+author: auctf
+tags: web
 ---
 
 # Matthews Notes

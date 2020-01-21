@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Enumeration"
 date:   2017-09-20
-categories: Meetings
+categories: archived
+author: auctf
+tags: pentesting
 ---
 
 This week we went over networking basics and how to do enumeration and packet sniffing

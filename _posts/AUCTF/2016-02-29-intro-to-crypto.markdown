@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Introduction to Cryptography"
 date:   2016-02-27
-categories: Meetings
+categories: archived
+author: auctf
+tags: crypto
 ---
 
 This week, Jacob went over the bare basics of cryptography, some of the most common ciphering techniques (substitution ciphers), and went over most of [Over The Wire's][overthewire] Krypton challenges.

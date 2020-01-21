@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Memory Forensics with Volatility"
 date:   2016-02-08
-categories: Meetings
+categories: archived
+author: auctf
+tags: forensics
 ---
 
 The second half of the third meeting of the semester focused on memory forensics. We discussed what memory forensics is and looked at Volatility, the front-runner for memory and disk analysis.

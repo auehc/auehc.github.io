@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Rogue Access Point Attacks"
 date:   2016-02-15
-categories: Meetings
+categories: archived
+author: auctf
+tags: wireless
 ---
 
 This week, Matthew talked about Rogue Access Point attacks, specifically Evil Twin and Karma Attacks on Wireless Access Points and showed a /quick/ demo of a Evil Twin Attack. These attacks are a mix of wireless hacking and social engineering, and rely on tricking people and machines into thinking that you are someone else.

@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "The Basics of Wireshark"
 date:   2016-02-22
-categories: Meetings
+categories: archived
+author: auctf
+tags: wireless
 ---
 
 This meeting, Matthew gave a quick rundown of Wireshark and it's potential for packet analysis and network sniffing. Wireshark is "the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions." AKA the best thing around for dealing with those weird things called packets.

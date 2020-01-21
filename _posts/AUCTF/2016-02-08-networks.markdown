@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Networks with nmap"
 date:   2016-02-08
-categories: Meetings
+categories:  archived
+author: auctf
+tags: wireless
 ---
 
 In the third week of the semester we began with a basic rundown of networks and host discovery using nmap. Then, we talked about memory forensics using "Volatility"

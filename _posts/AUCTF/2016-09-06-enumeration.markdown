@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "First Meeting - Enumeration on a network"
 date:   2016-09-06
-categories: Meetings
+categories: archived
+author: auctf
+tags: pentesting
 ---
 
 [Slides](/assets/powerpoints/Enumeration-Presentation2.pptx)

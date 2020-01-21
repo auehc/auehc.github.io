@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Wireless Protocols and WEP Cracking"
 date:   2016-02-01
-categories: Meetings
+categories: archived
+author: auctf
+tags: wireless
 ---
 
 The second meeting started off with a simple discussion on Wireless Security Protocols, from OSA to WPA2. Then we went over the various ways to crack into these protocols using [Aircrack-ng][aircrack].

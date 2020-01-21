@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "The Exploitation Process"
 date:   2017-09-13
-categories: Meetings
+categories: archived
+author: auctf
+tags: pentesting
 ---
 
 This week Matthew went over our plan for the semester and the EVAPI exploitation process

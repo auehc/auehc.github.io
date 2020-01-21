@@ -1,8 +1,9 @@
 ---
-layout: post
 tagline:  "Kickoff Meeting / Kali Linux"
 date:   2016-01-25
-categories: Meetings
+categories: archived
+tags: kickoff
+author: auctf
 ---
 
 In the first AUCTF meeting we went over the basics of what CTFs are, and then talked about the major suite of tools we use for competitions: Kali Linux.
@@ -24,13 +25,13 @@ Kali is an operating system that comes with a bunch of penetration testing tools
 
 Some of the most used tools inclue:
 
-Web Applications | Passwords  | Reversing  |  Forensics  | Networks/Wireless
------------------|------------------|------------|-------------|------------------
-   BurpSuite     |  John the Ripper |   OllyDbg  |  BinWalk    |     Wireshark  
-   OWASP-Zap     |     Ophrack      |   Radare2  |  Foremost   |    Aircrack-ng
-    HTTrack      |     Hashcat      |   IDA Pro  |  Scalpel    |       nmap
-    SQLmap       |     Medusa       |   Dex2Jar  |MagicRescue |
-    			 |	 RainbowCrack   |   APKTool  | Volatility  |
+| Web Applications | Passwords       | Reversing  | Forensics   | Networks/Wireless |
+| ---------------- | --------------- | ---------- | ----------- | ----------------- |
+| BurpSuite        | John the Ripper | OllyDbg    | BinWalk     | Wireshark         |
+| OWASP-Zap        | Ophrack         | Radare2    | Foremost    | Aircrack-ng       |
+| HTTrack          | Hashcat         | IDA Pro    | Scalpel     | nmap              |
+| SQLmap           | Medusa          | Dex2Jar    | MagicRescue |
+| RainbowCrack     | APKTool         | Volatility |
 
   
 ---  
