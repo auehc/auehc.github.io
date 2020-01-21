@@ -1,6 +1,7 @@
 ---
 title:  "Start Here!"
 permalink: /start-here/start-here
+author: snow
 ---
 
 Welcome to the Auburn Ethical Hacking Club (EHC) site!
@@ -9,7 +10,7 @@ This site provides all documentation for the EHC.
 
 Join us on [discord](https://discord.gg/2f9rtas)!
 
-If you have not already take our [survey](https://forms.gle/JzqsgX85SFjMnUAY9) so we can get to know you better.
+If you have not already take our [survey](https://forms.gle/DV5b1WRpSh7wjHJk9) so we can get to know you better.
 
 ## What is this club?
  The Auburn Ethical Hacking Club is a subset of Auburn's Association for Computing Machinery Club (ACM). We are not our own club but a sub group of ACM. Our focus in EHC is on hacking and hacking **ethically**.
