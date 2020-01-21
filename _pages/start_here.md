@@ -11,6 +11,15 @@ header:
   
 excerpt: "If you are here and no nothing about cybersecurity / information security you are in the right spot!"
 
+# what is this club
+# black grey white hat
+# what we do
+    # ctf
+    # defcon
+    # auburn hacks
+# how to setup a vm
+
+
 feature_row:
   - image_path: /assets/images/ehc.png
 
@@ -19,7 +28,11 @@ feature_row:
     url: "./start-here/level0"
     btn_label: "Click Here"
 
-
+  - image_path: /assets/images/ehc.png
+    title: "VM How To"
+    excerpt: "Learn how to setup a VM for the club!"
+    url: "./start-here/vm-howto"
+    btn_label: "Click Here"
 
 
 ---
