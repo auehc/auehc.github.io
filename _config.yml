@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site for Auburn's Ethical Hacking Club.
 
 github_username: auehc
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -35,8 +35,7 @@ include:
   - _pages
 
 logo: "/assets/images/ehc.png"
- 
-words_per_minute         : g
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
