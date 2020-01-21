@@ -1,7 +1,8 @@
 ---
-title:  "Start Here!"
-permalink: /start-here/start-here
+title:  "Level 0!"
+permalink: /start-here/level0
 author: snow
+toc: true
 ---
 
 Welcome to the Auburn Ethical Hacking Club (EHC) site!
