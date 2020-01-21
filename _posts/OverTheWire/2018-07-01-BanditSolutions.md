@@ -4,6 +4,7 @@ permalink: /overthewire/bandit
 author: demarcus
 categories: write_ups
 tags: overthewire
+toc: true
 ---
 
 
