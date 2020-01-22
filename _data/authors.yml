@@ -9,6 +9,10 @@ snow:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jjs0029@auburn.edu"
 
+jd: 
+    name      : "John David Watts"
+    avatar    : "/assets/images/bio-photo.jpg"
+    
 chharles:
   name        : "Charlie Harper"
   bio         : "??"
