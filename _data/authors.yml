@@ -17,9 +17,9 @@ chharles:
 demarcus:
   name        : "DeMarcus Campbell"
   bio         : "VP of EHC & Trainer of the AU 1337"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/demarcus.jpg"
   
-  zleggett:
+zleggett:
   name        : "Zach Leggett"
   bio         : "??"
   avatar      : "/assets/images/bio-photo-2.jpg"
@@ -28,6 +28,7 @@ auctf:
   name        : auctf
   bio         : "Original iteration of AU EHC, lead by Jeramy and Matt"
   avatar      : "/assets/images/bio-photo.jpg"
+
 Billy Rick:
   name        : "Billy Rick"
   bio         : "What do you want, jewels? I am a very extravagant man."
