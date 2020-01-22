@@ -18,6 +18,11 @@ demarcus:
   name        : "DeMarcus Campbell"
   bio         : "??"
   avatar      : "/assets/images/bio-photo-2.jpg"
+  
+  zleggett:
+  name        : "Zach Leggett"
+  bio         : "??"
+  avatar      : "/assets/images/bio-photo-2.jpg"
 
 auctf:
   name        : auctf
