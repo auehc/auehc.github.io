@@ -21,8 +21,8 @@ feature_row:
 
   - image_path: assets/images/ehc.png
     title: "EHC Library"
-    excerpt: "This a link to our library of books."
-    url: "https://github.com/auehc/auehc.github.io/tree/master/Resources"
+    excerpt: "This a link to a library of books."
+    url: "https://please.dont-hack.me/books/hacking/"
     btn_label: "Click Here"
 
   - image_path: assets/images/ehc.png
