@@ -6,10 +6,9 @@ permalink: /about/
 We are technically a subclub under Auburn's Association for Computing Machinery (ACM). 
 But Auburn's ACM's EHC is a lot of text...
 
-This club was started in August of 2017 and was a spiritual successor to AUCTF created by Jeramy Lochner and Matt Rogers
-in 2015. 
+This club was started in August of 2018 and was a spiritual successor to AUCTF created by Jeramy Lochner and Matt Rogers in January of 2016. 
 
-### Contact us
+# Contact us
 
 President - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
 
