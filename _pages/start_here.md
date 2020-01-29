@@ -9,15 +9,9 @@ header:
   overlay_image: /assets/images/cyberspace.jpg
 
   
-excerpt: "If you are here and no nothing about cybersecurity / information security you are in the right spot!"
+excerpt: "If you are here and know nothing about cybersecurity / information security you are in the right spot!"
 
-# what is this club
-# black grey white hat
-# what we do
-    # ctf
-    # defcon
-    # auburn hacks
-# how to setup a vm
+
 
 
 feature_row:
