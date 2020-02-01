@@ -1,0 +1,100 @@
+---
+title:  "Spring 2020 Kickoff"
+tags: kickoff
+author: snow
+---
+
+In the first EHC meeting of the semester we went over what events we will be participating in and what topics we will be covering this semester.
+
+# Events
+
+## Auburn Hacks CTF 
+
+This year EHC and Auburn Hacks will be throwing a small CTF during the hackathon. 
+There will be a multitude of different categories: from binary exploitation, reverse engineering, web hacking, cryptography, etc.
+
+Date: February 8 - 9, 2020 
+
+Site: [https://auburnhacks.com/](https://auburnhacks.com/)
+
+CTF Registration: [http://ctf.auburn.edu/](http://ctf.auburn.edu/)
+
+
+Hackathon Schedule
+
+|  Challenge | Time | Date  | Leader |
+| ---------- | ---- | ----- |  ----- |
+| Password Cracking  | 1:30 PM | 2/8/20  | Zach   |
+| Web | 3:00 PM         | 2/8/20    | DeMarcus    |  
+| Major League Hacking  | 7:30 PM         | 2/8/20    | Alex     |
+| Lock Picking           | 11:30 PM       | 2/8/20 | Charlie |
+| Bash     | 8 AM         | 2/9/20 | Ethan |
+| Pwn      | 9 AM       | 2/9/20 | Jordan |
+| Reversing | 10:30 AM  | 2/9/20 | Jordan |
+| Closing | 3:30 PM    | 2/9/20 | Alex|
+
+## NeverLAN CTF
+
+This will be our first CTF of the semester. Unfortunately, it is running during the same time as Auburn Hacks.
+
+Date: February 8 - 11, 2020
+
+Site: [https://neverlanctf.com/](https://neverlanctf.com/)
+
+
+## Locked Shields
+
+This is an attack defense styled competition. It will be the first time EHC participates in this type of contest!
+
+Date: March 8 - 19, 2020 
+
+Site: [https://ccdcoe.org/exercises/locked-shields/](https://ccdcoe.org/exercises/locked-shields/)
+
+## TAMU CTF
+
+This will be our second CTF of the semester. Its run by Texas A&M and will be significantly harder than NeverLAN.
+
+Date: March
+
+## AU CTF
+
+AU CTF is hosted by EHC and this will be the first time it is public to the entire world!
+
+Date: April 3 - 5, 2020
+
+Site: [http://ctf.auburn.edu](http://ctf.auburn.edu)
+
+
+
+## Security+
+
+AU EHC will be running a Security+ preparation course throughout this semester. 
+Each Thursday we will be meeting to discuss Security+ material. 
+At the end of the semester we will be having a practice exam and the top ten students will be able to take the test for free. Read more [here](/security+/outline/)
+
+
+
+
+
+# Topics
+
+## Penetration Testing
+
+Month: February
+
+Lecturer: DeMarcus
+
+## Reverse Engineering
+
+Month: March
+
+Lecturer: Jordan 
+
+## Cryptography / Wireless Engineering
+
+Month: April
+
+Lecturer: Charlie / Drew
+
+
+
