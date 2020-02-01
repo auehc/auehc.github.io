@@ -1,6 +1,8 @@
 main:
   - title: "Start Here"
     url: /start-here/
+  - title: "Resources"
+    url: /resources
   - title: "Posts"
     url: /posts/
   - title: "Categories"
