@@ -14,4 +14,6 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "activesupport", ">= 4.1.11"
+
 end
