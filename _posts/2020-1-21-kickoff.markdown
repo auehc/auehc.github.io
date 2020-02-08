@@ -24,11 +24,13 @@ Hackathon Schedule
 
 |  Challenge | Time | Date  | Leader |
 | ---------- | ---- | ----- |  ----- |
-| Password Cracking  | 1:30 PM | 2/8/20  | Zach   |
-| Web | 3:00 PM         | 2/8/20    | DeMarcus    |  
+| Bash / Crypto | 1:30 PM | 2/8/20  | Ethan   |
+| Password Cracking | 3:00 PM         | 2/8/20    | Zach    |  
+| Web  | 5:30 PM         | 2/8/20    | DeMarcus    |  
 | Major League Hacking  | 7:30 PM         | 2/8/20    | Alex     |
+| Forensics  | 9:30 PM         | 2/8/20    | DeMarcus     |
 | Lock Picking           | 11:30 PM       | 2/8/20 | Charlie |
-| Bash     | 8 AM         | 2/9/20 | Ethan |
+| Breakfast     | 8 AM         | 2/9/20 | - |
 | Pwn      | 9 AM       | 2/9/20 | Jordan |
 | Reversing | 10:30 AM  | 2/9/20 | Jordan |
 | Closing | 3:30 PM    | 2/9/20 | Alex|
