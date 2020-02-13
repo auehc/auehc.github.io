@@ -1,5 +1,5 @@
 ---
-title:  "Cyber Fire Puzzles Details"
+title:  "Cyber Fire Puzzles 2020 Details"
 tags: events
 author: demarcus
 ---
