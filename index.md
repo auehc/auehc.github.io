@@ -33,7 +33,7 @@ feature_row:
 
 
 ---
-
+<meta name="google-site-verification" content="Ish4eoLdCrerNCu_suMTamlpUASzrukyvJjYDXiDZQo" />
 
 {% include feature_row id="feature_row" %}
 
