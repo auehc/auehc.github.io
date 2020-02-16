@@ -1,5 +1,5 @@
 ---
-title: "Auburn's Ethical Hacking Club's Blog"
+title: "Auburn University's Ethical Hacking Club's Site"
 layout: splash
 
 date: 2020-01-20
@@ -15,8 +15,8 @@ feature_row:
   - image_path: assets/images/ehc.png
 
     title: "AUCTF"
-    excerpt: "Here is a link to our capture the flag site!"
-    url: "http://ctf.auburn.edu"
+    excerpt: "Come and participate in Cyber Fire Puzzles!"
+    url: "aub.ie/cyberfire"
     btn_label: "Click Here"
 
   - image_path: assets/images/ehc.png
