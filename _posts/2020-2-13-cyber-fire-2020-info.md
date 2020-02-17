@@ -32,7 +32,7 @@ event.
 
 ## I'm interested, how do I register?
 * For early-bird admission fee, register for the event before noon on Friday February 21 here: [https://aub.ie/cyberfire](https://aub.ie/cyberfire)
-* Pay the early bird admission fee at Shelby 2114 (during normal office hours), during the Ethical Hacking Club meetings Tuesdays at 5 in Shelby 3129 or pay the regular admission fee at the start of the event.
+* Pay the early bird admission fee at Shelby 2116 or 3101A (during normal office hours), during the Ethical Hacking Club meetings Tuesdays at 5 in Shelby 3129 or pay the regular admission fee at the start of the event.
 * Come to the event on February 22nd & February 23rd
   - Bring a laptop (if you can)
   - Bring $20 if you have not paid the early-bird admission fee
