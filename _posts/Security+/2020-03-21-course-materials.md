@@ -16,3 +16,7 @@ Flash Cards: <https://quizlet.com/class/13546232/>
 
 Exam Objectives: <https://drive.google.com/file/d/10HuEEfT2pHFZP9jiVgEULnPBdcbRbPcL/view?usp=sharing>
 
+Assessments
+--
+Pre-Assessment: <https://drive.google.com/file/d/1rkXl2GkWwtGMPgRxmKfv3vVZgMMNJyOv/view>
+
