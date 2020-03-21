@@ -30,7 +30,8 @@ zleggett:
   
 vincent:
   name        : "vincent"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  bio         : "I <3 Let's Encrypt"
+  avatar      : "/assets/images/vc.png"
 
 auctf:
   name        : AU CTF
