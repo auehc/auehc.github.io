@@ -27,6 +27,10 @@ zleggett:
   name        : "Zach Leggett"
   bio         : "??"
   avatar      : "/assets/images/bio-photo-2.jpg"
+  
+zleggett:
+  name        : "vincent"
+  avatar      : "/assets/images/bio-photo-2.jpg"
 
 auctf:
   name        : AU CTF
