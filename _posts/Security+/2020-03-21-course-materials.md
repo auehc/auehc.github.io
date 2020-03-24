@@ -18,6 +18,12 @@ Assessments
 --
 Pre-Assessment: <https://drive.google.com/file/d/1rkXl2GkWwtGMPgRxmKfv3vVZgMMNJyOv/view>
 
+Pre-Assessment Answers: <https://drive.google.com/open?id=1ywBLPSo9GQeRi5dxD5Pfuh8nS7PyJNsu>
+
+Post-Assessment: <https://drive.google.com/open?id=1ZIInHTklNEiaH9LPtrKE-DJQ7o47Kmm6>
+
+Post-Assessment Answers: <https://drive.google.com/open?id=1UywTaOcsJC3Wp4gymzoiETVfNHOm5ZEJ>
+
 Exam Objectives
 --
 SY0-501: <https://drive.google.com/file/d/10HuEEfT2pHFZP9jiVgEULnPBdcbRbPcL/view?usp=sharing>
