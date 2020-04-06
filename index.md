@@ -16,7 +16,7 @@ feature_row:
 
     title: "AUCTF 2020 Source"
     excerpt: "AUCTF 2020 has concluded come look at our source code!"
-    url: "www.github.com/auehc/AUCTF-2020"
+    url: "https://github.com/auehc/AUCTF-2020"
     btn_label: "Click Here"
 
   - image_path: assets/images/ehc.png
