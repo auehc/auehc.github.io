@@ -14,9 +14,9 @@ excerpt: "Welcome to AUEHC's Site!"
 feature_row:
   - image_path: assets/images/ehc.png
 
-    title: "Cyber Fire Puzzles"
-    excerpt: "Come and participate in Cyber Fire Puzzles!"
-    url: "aub.ie/cyberfire"
+    title: "AUCTF 2020 Source"
+    excerpt: "AUCTF 2020 has concluded come look at our source code!"
+    url: "www.github.com/auehc/AUCTF-2020"
     btn_label: "Click Here"
 
   - image_path: assets/images/ehc.png
