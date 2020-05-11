@@ -10,12 +10,14 @@ This club, sometimes referred to as AUCTF, was started January 2016 by Jeramy Lo
 
 # Contact us
 
-President - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
+President - Charlie Harper: [cah0111@auburn.edu](mailto:cah0111@auburn.edu)
 
-Vice President - DeMarcus Campbell: [dec0013@auburn.edu](mailto:dec0013@auburn.edu)
+Vice President - Ethan Johnson: [efj0007@auburn.edu](mailto:efj0007@auburn.edu)
+
+Secreatry - Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
 
 Treasure - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
 
-Technical Lead - Charlie Harper: [cah0111@auburn.edu](mailto:cah0111@auburn.edu)
+Technical Lead - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
 
-Technical Lead - Drew Batten: [akb0046@auburn.edu](mailto:akb0046@auburn.edu)
+Technical Lead - Zach Leggett: [zjl0002@auburn.edu](mailto:zjl0002@auburn.edu)
