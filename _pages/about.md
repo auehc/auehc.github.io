@@ -14,7 +14,7 @@ President - Charlie Harper: [cah0111@auburn.edu](mailto:cah0111@auburn.edu)
 
 Vice President - Ethan Johnson: [efj0007@auburn.edu](mailto:efj0007@auburn.edu)
 
-Secreatry - Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
+Secretary - Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
 
 Treasure - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
 
