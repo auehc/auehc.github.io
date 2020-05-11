@@ -16,7 +16,7 @@ Vice President - Ethan Johnson: [efj0007@auburn.edu](mailto:efj0007@auburn.edu)
 
 Secretary - Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
 
-Treasure - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
+Treasurer - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
 
 Technical Lead - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
 
