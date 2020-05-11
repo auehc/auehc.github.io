@@ -2,7 +2,7 @@
 
 snow:
   name        : "Jordan Sosnowski"
-  bio         : "President of EHC"
+  bio         : "Technical Lead"
   avatar      : "/assets/images/bio-photo-3.jpg"
   links:
     - label: "Email"
@@ -15,17 +15,27 @@ jd:
     
 chharles:
   name        : "Charlie Harper"
-  bio         : "??"
+  bio         : "President"
   avatar      : "/assets/images/frog.png"
 
 demarcus:
   name        : "DeMarcus Campbell"
-  bio         : "VP of EHC & Trainer of the AU 1337"
+  bio         : "Alum"
   avatar      : "/assets/images/demarcus.jpg"
   
 zleggett:
   name        : "Zach Leggett"
-  bio         : "??"
+  bio         : "Technical Lead"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  
+TheRealJman:
+  name        : "Jonathan Aldridge"
+  bio         : "Secretary"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  
+FireKing:
+  name        : "Ethan Johnson"
+  bio         : "Vice President"
   avatar      : "/assets/images/bio-photo-2.jpg"
   
 vincent:
