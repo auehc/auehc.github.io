@@ -1,7 +1,7 @@
 ---
 title:  "Physical Security Resources"
 categories: resources 
-author: c
+author: chharles
 ---
 
 A Collection of Physical Security resources.
