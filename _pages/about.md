@@ -20,17 +20,17 @@ In the 4 years we have been active, we have worked with national laboratories to
 
 # Leadership
 
-Technical Lead (2019-2020), President (2020-present) - Charlie Harper: [cah0111@auburn.edu](mailto:charles.harper@auburn.edu)
+Technical Lead (2019-2020), President (2020-present) - Charlie Harper
 
-Vice President (2020-present) - Ethan Johnson: [efj0007@auburn.edu](mailto:ethan.johnson@auburn.edu)
+Vice President (2020-present) - Ethan Johnson
 
-Secretary (2020-present) - Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
+Secretary (2020-present) - Jonathan Aldridge
 
-Treasurer (2019-present) - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
+Treasurer (2019-present) - Luke Gleba
 
-Technical Lead (2020-present) - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
+Technical Lead (2020-present) - Jordan Sosnowski
 
-Technical Lead (2020-present) - Zach Leggett: [zjl0002@auburn.edu](mailto:zjl0002@auburn.edu)
+Technical Lead (2020-present) - Zach Leggett
 
 
 # Previous Leadership
