@@ -33,7 +33,7 @@ Technical Lead (2020-present) - Jordan Sosnowski
 Technical Lead (2020-present) - Zach Leggett
 
 
-# Previous Leadership
+# Past Leadership
 
 Vice President (2018 - 2019), President (2019-2020) - Jordan Sosnowski
 
