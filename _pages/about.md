@@ -16,7 +16,7 @@ AUEHC is focused on developing a new wave of cybersecurity professionals.
 
 Over the past 4 years, we have taught Auburn University students cybersecurity principles through our participation in international security competitions, lectures on security topics, and practice with industry-standard security tools.
 
-In the 4 years we have been active, we have worked with national laboratories to hold cybersecurity events, contributed to educating the general population about computer hygiene through good works, and developed and hosted a public cybersecurity event, [AUCTF 2020](href:ctf.auburn.edu), with over 2000 participants from all around the globe.
+In the 4 years we have been active, we have worked with national laboratories to hold cybersecurity events, contributed to educating the general population about computer hygiene through good works, and developed and hosted a public cybersecurity event, [AUCTF 2020](https://ctf.auburn.edu/), with over 2000 participants from all around the globe.
 
 # Leadership
 
