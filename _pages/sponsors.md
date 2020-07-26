@@ -1,5 +1,6 @@
 ---
 title: Sponsors
+layout: category
 permalink: /sponsors/
 ---
 

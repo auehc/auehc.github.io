@@ -11,3 +11,5 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Sponsors"
+    url: /sponsors/
