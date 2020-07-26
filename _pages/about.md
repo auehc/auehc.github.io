@@ -20,8 +20,9 @@ In the 4 years we have been active, we have worked with national laboratories to
 
 ## Leadership
 
-President (2020-present) - Charlie Harper
 <!-- Technical Lead (2019-2020) -->
+President (2020-present) - Charlie Harper
+
 Vice President (2020-present) - Ethan Johnson
 
 Secretary (2020-present) - Jonathan Aldridge
