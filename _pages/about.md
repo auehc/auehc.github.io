@@ -24,13 +24,13 @@ Technical Lead (2019-2020), President (2020-present) - Charlie Harper: [cah0111@
 
 Vice President (2020-present) - Ethan Johnson: [efj0007@auburn.edu](mailto:ethan.johnson@auburn.edu)
 
-Secretary (2020-present)- Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
+Secretary (2020-present) - Jonathan Aldridge: [jta0027@auburn.edu](mailto:jta0027@auburn.edu)
 
-Treasurer (2019-present)- Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
+Treasurer (2019-present) - Luke Gleba: [ljg0019@auburn.edu](mailto:ljg0019@auburn.edu)
 
-Technical Lead (2020-present)- Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
+Technical Lead (2020-present) - Jordan Sosnowski: [jjs@auburn.edu](mailto:jjs@auburn.edu)
 
-Technical Lead (2020-present)- Zach Leggett: [zjl0002@auburn.edu](mailto:zjl0002@auburn.edu)
+Technical Lead (2020-present) - Zach Leggett: [zjl0002@auburn.edu](mailto:zjl0002@auburn.edu)
 
 
 # Previous Leadership
@@ -43,7 +43,7 @@ Technical Lead (2018-2020) - Drew Batten
 
 President (2018-2019) - Lee Vanrell
 
-Founder, President - Matthew Rogers
+Founder, President (2016-2018) - Matthew Rogers
 
-Founder, Vice President - Jeramy Lochner
+Founder, Vice President (2016-2018) - Jeramy Lochner
 
