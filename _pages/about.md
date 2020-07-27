@@ -33,6 +33,8 @@ Technical Lead (2020-present) - Jordan Sosnowski
 
 Technical Lead (2020-present) - Zach Leggett
 
+Faculty Advisor (2020-present) - Daniel Tauritz
+
 ## Past Leadership
 
 Vice President (2018-2019), President (2019-2020) - Jordan Sosnowski
@@ -40,6 +42,8 @@ Vice President (2018-2019), President (2019-2020) - Jordan Sosnowski
 Vice President (2019-2020) - Demarcus Campbell 
 
 Technical Lead (2018-2020) - Drew Batten
+
+Faculty Advisor (2016-2020) - David Umphress
 
 President (2018-2019) - Lee Vanrell
 
