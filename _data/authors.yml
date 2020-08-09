@@ -48,6 +48,11 @@ auctf:
   bio         : "Written by Matt or Jeramy. We not sure as this was pulled from the old club site."
   avatar      : "/assets/images/bio-photo.jpg"
 
+auehc:
+  name        : AUEHC
+  bio         : "Written by AUEHC Leadership"
+  avatar      : "/assets/images/bio-photo.jpg"
+
 Billy Rick:
   name        : "Billy Rick"
   bio         : "What do you want, jewels? I am a very extravagant man."
