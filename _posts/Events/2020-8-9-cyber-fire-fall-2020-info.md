@@ -18,16 +18,16 @@ Cyber Fire Puzzles offers a great opportunity to gain experience working on cybe
 The event will be completely online and will be hosted here: [Cyber Fire Puzzles Fall 2020](https://puzzles.cyberfire.training)
 
 This is multi-day event from 
-* Friday AUG 21, 2020 7 PM
+* Friday AUG 21, 2020 7 PM (CDT)
 
 through
 
-* Sunday AUG 23, 2020 7 PM
+* Sunday AUG 23, 2020 7 PM (CDT)
 
 Help will be provided by LANL employees during the following times:
-* Friday AUG 21, 2020 7 PM - 11 PM
-* Saturday AUG 22, 2020 11 AM - 11 PM
-* Sunday AUG 23, 2020 11 AM - 7 PM
+* Friday AUG 21, 2020 7 PM - 11 PM (CDT)
+* Saturday AUG 22, 2020 11 AM - 11 PM (CDT)
+* Sunday AUG 23, 2020 11 AM - 7 PM (CDT)
 
 ## Technology Requirements
 You will need your own computer as the event will be held online.
@@ -41,7 +41,7 @@ We will be using two different platforms for communication
 * [AUEHC Discord](https://discord.gg/Bs6CUNh)
 
 ## I'm interested, how do I register?
-Registration will be available for the duration of the event.
+Registration is open and will remain so until the end of the event.
 * To register for the event please visit the following website: [https://aub.ie/cyberfire_fall2020](https://aub.ie/cyberfire_fall2020)
 
 ## Flyer
