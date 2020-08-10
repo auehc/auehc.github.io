@@ -1,5 +1,6 @@
 ---
 title:  "Cyber Fire Puzzles Spring 2020 Details"
+permalink: /events/cyberfire_spring_2020
 tags: events
 author: demarcus
 ---
