@@ -37,7 +37,7 @@ You will need your own computer as the event will be held online.
 
 ## Communication
 We will be using two different platforms for communication
-* [Official Cyberfire 2020 Slack](https://aub.ie/cyberfire_fall2020_slack)
+* [Official Cyber Fire 2020 Slack](https://aub.ie/cyberfire_fall2020_slack)
 * [AUEHC Discord](https://discord.gg/Bs6CUNh)
 
 ## I'm interested, how do I register?
