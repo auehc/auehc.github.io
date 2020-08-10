@@ -44,5 +44,5 @@ We will be using two different platforms for communication
 Registration will be available for the duration of the event.
 * To register for the event please visit the following website: [https://aub.ie/cyberfire_fall2020](https://aub.ie/cyberfire_fall2020)
 
-## flyer
+## Flyer
 <img src="/assets/cyberfire/cyberfire_fall2020_flyer.png" >
