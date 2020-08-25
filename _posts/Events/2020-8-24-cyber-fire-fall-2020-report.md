@@ -19,7 +19,7 @@ The primary form of communication for the participants was in the Cyber Fire Puz
 
 
 ## Teams
-12 Teams participated in the event. The following is a list of the teams in the order of their placement in the competition:
+11 Teams participated in the event. The following is a list of the teams in the order of their placement in the competition:
 
 1. undecided
 2. BRUH
@@ -30,16 +30,15 @@ The primary form of communication for the participants was in the Cyber Fire Puz
 7. the lucky crunchers
 8. DemonXBunny
 9. coom
-10. ``
-11. mercury
-12. hallo
+10. mercury
+11. hallo
 
 
 ## Topics
 
 - base:
 
-Decode a custom base alphabet from base 2 to base 96.
+Decode a custom base alphabet from base 2 to base 1337.
 
 - byobf:
 
@@ -59,7 +58,7 @@ Learn custom protocol and encryption routines.
 
 - nocode
 
-(no description.. coding was not required)
+CTF challenges that do not require a computer, just a pad of paper, a pencil, and a calculator.
 
 - reverse:
 
@@ -71,7 +70,7 @@ Find the hidden message within a normal looking file.
 
 - wopr:
 
-Unavailable during the event
+Break into a mainframe system.
 
 
 ## Results
