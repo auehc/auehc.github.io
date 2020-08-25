@@ -80,6 +80,6 @@ Unavailable during the event
 
 ***Team's Scores by Time***
 
-<img src="/assets/cyberfire/cyberfire_fall2020_points_graph.png" >
+<img src="/assets/cyberfire/cyberfire_fall2020_points_graph.PNG" >
 
 ***Breakdown of the Team's Earned Points***
