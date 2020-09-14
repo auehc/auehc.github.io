@@ -32,7 +32,10 @@ therealjman:
   name        : "Jonathan Aldridge"
   bio         : "Secretary"
   avatar      : "/assets/images/jon.png"
-  linkedn     : jonathan-aldridge-a1b778156
+  links       :
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jonathan-aldridge-a1b778156/"
   
 fireking:
   name        : "Ethan Johnson"
