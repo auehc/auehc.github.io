@@ -1,6 +1,7 @@
 ---
 title:  "Spring 2020 Kickoff"
 tags: kickoff
+permalink: /meetings/spring2020_kickoff
 author: snow
 ---
 

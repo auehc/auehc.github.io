@@ -31,12 +31,17 @@ zleggett:
 therealjman:
   name        : "Jonathan Aldridge"
   bio         : "Secretary"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/jon.png"
   
 fireking:
   name        : "Ethan Johnson"
   bio         : "Vice President"
   avatar      : "/assets/images/bio-photo-2.jpg"
+
+mtmcglawn:
+  name        : "Matthew McGlawn"
+  bio         : "Vice President"
+  avatar      : "/assets/images/tyler.png"
   
 vincent:
   name        : "vincent"

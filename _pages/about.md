@@ -21,21 +21,29 @@ In the 4 years we have been active, we have worked with national laboratories to
 ## Leadership
 
 <!-- Technical Lead (2019-2020) -->
+<img src="/assets/images/frog.png" >
 President (2020-present) - Charlie Harper
 
 Vice President (2020-present) - Ethan Johnson
 
+<img src="/assets/images/jon.png" >
 Secretary (2020-present) - Jonathan Aldridge
 
-Treasurer (2019-present) - Luke Gleba
+<img src="/assets/images/tyler.png" >
+Treasurer (2020-present) - Matthew McGlawn
 
+<img src="/assets/images/bio-photo-3.jpg" >
 Technical Lead (2020-present) - Jordan Sosnowski
 
 Technical Lead (2020-present) - Zach Leggett
 
+Group Lead (2020-present) - Luke Gleba
+
 Faculty Advisor (2020-present) - Daniel Tauritz
 
 ## Past Leadership
+
+Treasurer (2019-2020) - Luke Gleba
 
 Vice President (2018-2019), President (2019-2020) - Jordan Sosnowski
 
