@@ -45,7 +45,7 @@ Technical Lead (2020-present) - Jordan Sosnowski
 
 Technical Lead (2020-present) - Zach Leggett
 
-<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
+<img src="/assets/images/giraffe.png" width="200" height="200" >
 
 Group Lead (2020-present) - Luke Gleba
 
