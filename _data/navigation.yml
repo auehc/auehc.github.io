@@ -13,6 +13,8 @@ main:
     url: /about/
   - title: "Sponsors"
     url: /sponsors/
+  - title: "Opportunities"
+    url: /opportunities/
   - title: "Contact Us"
     url: /contact-us/
   - title: "Calendar"
