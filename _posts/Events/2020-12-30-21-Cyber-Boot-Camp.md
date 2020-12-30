@@ -15,7 +15,7 @@ The first CBC 21' event is the Los Alamos Cyber Boot Camp 2021, more details wil
 The second CBC 21' event is the Sandia National Laboratories TracerFIRE event, more details will be provided below.
 
 ## Los Alamos Cyber Boot Camp 2021
-The year Chris Rawlings will be hosting the Los Alamos National Laboratories' Cyber Boot Camp (LANL-CBC). 
+This year Chris Rawlings will be hosting the Los Alamos National Laboratories' Cyber Boot Camp (LANL-CBC). 
 The primary focus of the event will be host forensics.
 LANL-CBC is scheduled for Monday January 4th and Tuesday January 5th 9AM CDT through 5PM CDT and will be entirely virtual
 
@@ -27,8 +27,8 @@ Participants can work in teams or alone.
 
 ### When is the event?
 This is multi-day event from 
-* Mon JAN 22, 2020 9 AM - 5 PM
-* Tue FEB 23, 2020 9 AM - 5 PM
+* Mon JAN 4, 2021 9 AM - 5 PM
+* Tue JAN 5, 2021 9 AM - 5 PM
 
 ### Technology Requirements
 You will need an internet capable computer able to running virtual machines and enough storage for a VM of about 42 - 100 GB in size. 
@@ -39,7 +39,7 @@ FREE
 ### I'm interested, how do I register?
 You can register [here](https://docs.google.com/forms/d/e/1FAIpQLSeb3fb7uHRTvu-sgarnCMCLdyoby1MTvQUUqjGi7Ar6qGp1Rg/viewform?usp=sf_link) 
 
-<img src="/assets/events/cyber-boot-camp-2021/LANL-CBC-Flyer.png">
+<img src="/assets/events/cyber-boot-camp-2021/LANL-CBC-Flyer.jpg">
 
 
 ## Sandia National Laboraroties: TracerFIRE
@@ -52,7 +52,7 @@ Participants will join 3 - 4 others and form an incident response team.
 CBC-SNL-2021 is scheduled for Friday January 15th through Sunday January 17th, 2021.
 
 ### Deadlines
-The application deadline will be avaialble up until the start of the event Friday January 15th (1/15/2021).
+The application deadline will be available up until the start of the event Friday January 15th (1/15/2021).
 
 ### Can I work with a team?
 Participants can work in teams of 4 to 5 or alone. If you don’t have a team, we can help you find one on our Discord [here](aub.ie/ehc-discord)
