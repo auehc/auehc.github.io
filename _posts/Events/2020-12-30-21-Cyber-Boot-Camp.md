@@ -40,7 +40,7 @@ You can register [here](https://docs.google.com/forms/d/e/1FAIpQLSeb3fb7uHRTvu-s
 <img src="/assets/events/cyber-boot-camp-2021/LANL-CBC-Flyer.jpg">
 
 
-## Sandia National Laboraroties: TracerFIRE
+## Sandia National Laboratories: TracerFIRE
 Sandia National Laboratories: TracerFIRE (CBC-SNL-2021) will place students in the role of incident responders following a cyber attack. 
 CBC-SNL-2021 will provide students the opportunity to practice critical thinking and problem solving, experience using tools and incident
 response techniques and work with a team to solve challengin problems. The event will be entirely virtual
