@@ -33,6 +33,10 @@ Vice President (2020-present) - Ethan Johnson
 
 Secretary (2020-present) - Jonathan Aldridge
 
+<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
+
+Public Relations (2020-present) - Vicki McLendon
+
 <img src="/assets/images/tyler.png" width="200" height="200" >
 
 Treasurer (2020-present) - Matthew McGlawn
@@ -52,6 +56,15 @@ Group Lead (2020-present) - Luke Gleba
 <img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
 
 Faculty Advisor (2020-present) - Daniel Tauritz
+
+<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
+
+Coach (2019-present) - Jason Cuneo
+
+<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
+
+Coach (2020-present) - Drew Springall
+
 
 ## Past Leadership
 
