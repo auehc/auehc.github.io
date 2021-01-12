@@ -12,17 +12,11 @@ header:
 #excerpt: "Welcome to AUEHC's Site!"
 
 row1:
-  - image_path: assets/events/cyber-boot-camp-2021/lanl-logo.png
-    title: "Los Alamos National Laboratory: Cyber Boot Camp 2021"
-    excerpt: "As part of CBC '21, Los Alamos National Laboratory will be hosting LANL-CBC. LANL-CBC will be a cyber security training event focused on host forensics"
-    url: "https://ehc.auburn.edu/events/cyber_boot_camp_2021"
-    btn_label: "Check it out"
-
   - image_path: assets/events/cyber-boot-camp-2021/sandia-logo.png
     title: "Sandia National Laboratories: TracerFire"
-    excerpt: "As part of CBC '21, Sandia National Laboratories will be hosting CBC-SNL-2021 (TracerFire). TraceFire will be a cyber security training focused on teaching incident response skills"
+    excerpt: "As part of CBC '21, Sandia National Laboratories will be hosting CBC-SNL-2021 (TracerFire). TraceFire will be a cyber security event focused on teaching incident response skills"
     url: "https://ehc.auburn.edu/events/cyber_boot_camp_2021"
-    btn_label: "Register Now"
+    btn_label: "More Information"
 
 row2:
   - image_path: assets/images/ehc.png

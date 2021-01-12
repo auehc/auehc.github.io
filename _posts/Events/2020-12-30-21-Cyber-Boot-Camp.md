@@ -47,7 +47,10 @@ response techniques and work with a team to solve challengin problems. The event
 
 Participants will join 3 - 4 others and form an incident response team. If you don’t have a team, we can help you find one on our Discord [here](aub.ie/ehc-discord).
 
-CBC-SNL-2021 is scheduled for Friday January 15th through Sunday January 17, 2021.
+CBC-SNL-2021 is scheduled for Friday January 15 through Sunday January 17, 2021.
+
+## Prizes
+Up to 5 members of the winning team will win Jabra Elite Wireless Earbuds and a charging case. 
 
 ### Deadlines
 The application deadline will be available up until the start of the event Friday January 15th (1/15/2021).
