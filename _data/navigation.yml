@@ -14,7 +14,7 @@ main:
   - title: "Contact Us"
     url: /contact-us/
   - title: "Resources"
-    url: /resources/
+    url: /resources
   - title: "Categories"
     url: /categories/
   - title: "Tags"
