@@ -41,6 +41,9 @@ row2:
 ---
 <meta name="google-site-verification" content="Ish4eoLdCrerNCu_suMTamlpUASzrukyvJjYDXiDZQo" />
 
-{% include feature_row id="row1" %}
+## Upcoming Events
+{% include feature_row id="row1" type="center" %}
+
+## Useful Information
 {% include feature_row id="row2" %}
 

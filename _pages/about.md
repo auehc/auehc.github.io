@@ -1,6 +1,114 @@
 ---
 title: About
 permalink: /about/
+
+leadership_2016:
+  - image_path: /assets/images/ehc.png
+    title: "Matthew Rogers"
+    excerpt: "Founder, President"
+
+  - image_path: /assets/images/ehc.png
+    title: "Jeramy Lochner"
+    excerpt: "Founder, Vice President"
+
+  - image_path: /assets/images/ehc.png
+    title: "David Umphress"
+    excerpt: "Faculty Advisor"
+
+
+leadership_2018:
+  - image_path: /assets/images/ehc.png
+    title: "Lee Vanrell"
+    excerpt: "President"
+
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Jordan Sosnowski"
+    excerpt: "Vice President"
+
+  - image_path: /assets/images/ehc.png
+    title: "Drew Batten"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/ehc.png
+    title: "David Umphress"
+    excerpt: "Faculty Advisor"
+
+
+leadership_2019:
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Jordan Sosnowski"
+    excerpt: "President"
+
+  - image_path: /assets/images/demarcus.jpg
+    title: "Demarcus Campbell"
+    excerpt: "Vice President"
+
+  - image_path: /assets/images/ehc.png
+    title: "Luke Gleba"
+    excerpt: "Treasurer"
+
+  - image_path: /assets/images/ehc.png
+    title: "Drew Batten"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/frog.png
+    title: "Charles Harper"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/ehc.png
+    title: "David Umphress"
+    excerpt: "Faculty Advisor"
+
+
+leadership_2020:
+  - image_path: /assets/images/frog.png
+    title: "Charles Harper"
+    excerpt: "President"
+
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Ethan Johnson"
+    excerpt: "Vice President"
+
+  - image_path: /assets/images/jon.png
+    title: "Jonathan Aldridge"
+    excerpt: "Secretary"
+
+  - image_path: /assets/images/tyler.png
+    title: "Matthew McGlawn"
+    excerpt: "Treasurer"
+
+  - image_path: /assets/images/ehc.png
+    title: "Victoria McLendon"
+    excerpt: "Public Relations"
+
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Jordan Sosnowski"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/giraffe.png
+    title: "Zachary Leggett"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/ehc.png
+    title: "Luke Gleba"
+    excerpt: "Attack-Defense Project Group Lead, Fall 2020"
+
+  - image_path: /assets/images/ehc.png
+    title: "Tripp Isbell"
+    excerpt: "Attack-Defense Project Group Lead, Spring 2021"
+
+  - image_path: /assets/images/ehc.png
+    title: "Drew Springall"
+    excerpt: "SECCDC 2021, CPTC '21 Coach"
+
+  - image_path: /assets/images/ehc.png
+    title: "Jason Cuneo"
+    excerpt: "SECCDC 2021 Coach"
+
+  - image_path: /assets/images/ehc.png
+    title: "Daniel Tauritz"
+    excerpt: "Faculty Advisor"
+
 ---
 
 ## Who We Are
@@ -20,67 +128,25 @@ In the 4 years we have been active, we have worked with national laboratories to
 
 ## Leadership
 
-<!-- Technical Lead (2019-2020) -->
-<img src="/assets/images/frog.png" width="200" height="200" >
-
-President (2020-present) - Charlie Harper
-
-<img src="/assets/images/bio-photo-3.jpg" width="200" height="200" >
-
-Vice President (2020-present) - Ethan Johnson
-
-<img src="/assets/images/jon.png" width="200" height="200" >
-
-Secretary (2020-present) - Jonathan Aldridge
-
-<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
-
-Public Relations (2020-present) - Vicki McLendon
-
-<img src="/assets/images/tyler.png" width="200" height="200" >
-
-Treasurer (2020-present) - Matthew McGlawn
-
-<img src="/assets/images/bio-photo-3.jpg" width="200" height="200" >
-
-Technical Lead (2020-present) - Jordan Sosnowski
-
-<img src="/assets/images/giraffe.png" width="200" height="200" >
-
-Technical Lead (2020-present) - Zach Leggett
-
-<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
-
-Group Lead (2020-present) - Luke Gleba
-
-<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
-
-Faculty Advisor (2020-present) - Daniel Tauritz
-
-<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
-
-Coach (2019-present) - Jason Cuneo
-
-<img src="/assets/images/bio-photo-2.jpg" width="200" height="200" >
-
-Coach (2020-present) - Drew Springall
+{% include feature_row id="leadership_2020" %}
 
 
 ## Past Leadership
 
-Treasurer (2019-2020) - Luke Gleba
+### 2019
 
-Vice President (2018-2019), President (2019-2020) - Jordan Sosnowski
+{% include feature_row id="leadership_2019" %}
 
-Vice President (2019-2020) - Demarcus Campbell 
+### 2018
 
-Technical Lead (2018-2020) - Drew Batten
+{% include feature_row id="leadership_2018" %}
 
-Faculty Advisor (2016-2020) - David Umphress
+### 2017
 
-President (2018-2019) - Lee Vanrell
+{% include feature_row id="leadership_2016" %}
 
-Founder, President (2016-2018) - Matthew Rogers
+### 2016
 
-Founder, Vice President (2016-2018) - Jeramy Lochner
+{% include feature_row id="leadership_2016" %}
+
 

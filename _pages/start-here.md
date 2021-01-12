@@ -16,7 +16,6 @@ excerpt: "If you are here and know nothing about cybersecurity / information sec
 
 feature_row:
   - image_path: /assets/images/ehc.png
-
     title: "Level 0"
     excerpt: "This is the beginning..."
     url: "./start-here/level0"
