@@ -49,25 +49,25 @@ Participants will join 3 - 4 others and form an incident response team. If you d
 
 CBC-SNL-2021 is scheduled for Friday January 15 through Sunday January 17, 2021.
 
-## Prizes
+### Prizes
 Up to 5 members of the winning team will win Jabra Elite Wireless Earbuds and a charging case. 
 
 ### Deadlines
 The application deadline will be available up until the start of the event Friday January 15th (1/15/2021).
 
-## When is the event?
+### When is the event?
 This is multi-day event from 
 * Fri JAN 15, 2021 5:30 PM - 8 PM CT
 * Sat JAN 16, 2021 11 AM - 6 PM CT
 * Sun JAN 17, 2021 11 AM - 4 PM CT
 
-## Technology Requirements
+### Technology Requirements
 You will need your own internet capable computer for this event.
 
-## Cost
+### Cost
 FREE
 
-## I'm interested, how do I register?
+### I'm interested, how do I register?
 Registration is free. 30 Spots are available for the event. After the first 30 spots are filled, those trying to register will be placed in a waitlist for the event.
 We will have a check-in on the first day of the event. If any of the first 30 participants do not check in to the event on the first day, participants on the waitlist will
 take that spot.
