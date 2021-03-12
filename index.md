@@ -12,10 +12,10 @@ header:
 #excerpt: "Welcome to AUEHC's Site!"
 
 row1:
-  - image_path: assets/events/cyber-boot-camp-2021/sandia-logo.png
-    title: "Sandia National Laboratories: TracerFire"
-    excerpt: "As part of CBC '21, Sandia National Laboratories will be hosting CBC-SNL-2021 (TracerFire). TraceFire will be a cyber security event focused on teaching incident response skills"
-    url: "https://ehc.auburn.edu/events/cyber_boot_camp_2021"
+  - image_path: assets/events/cyber-boot-camp-2021/SECCDCLogo.png
+    title: "Southeast Collegiate Cyber Defense Competition (SECCDC)"
+    excerpt: "SECCDC Regional concluded on 3/11/21. Congratulations to Auburn for making it to Regional 2021 and having a good run."
+    url: "https://cyberinstitute.kennesaw.edu/seccdc/"
     btn_label: "More Information"
 
 row2:
