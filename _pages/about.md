@@ -109,6 +109,55 @@ leadership_2020:
     title: "Daniel Tauritz"
     excerpt: "Faculty Advisor"
 
+leadership_2021:
+  - image_path: /assets/images/frog.png
+    title: "Charles Harper"
+    excerpt: "President"
+
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Ethan Johnson"
+    excerpt: "Vice President"
+
+  - image_path: /assets/images/jon.png
+    title: "Jonathan Aldridge"
+    excerpt: "Secretary"
+
+  - image_path: /assets/images/ehc.png
+    title: "Mauren Baker"
+    excerpt: "Treasurer"
+
+  - image_path: /assets/images/ehc.png
+    title: "Victoria McLendon"
+    excerpt: "Public Relations"
+
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Jordan Sosnowski"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/giraffe.png
+    title: "Zachary Leggett"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/ehc.png
+    title: "Tripp Isbell"
+    excerpt: "Attack-Defense Project Group Lead, Spring 2021"
+
+  - image_path: /assets/images/ehc.png
+    title: "Enoch Yang"
+    excerpt: "Webmaster"
+
+  - image_path: /assets/images/ehc.png
+    title: "Drew Springall"
+    excerpt: "SECCDC 2021, CPTC '21 Coach"
+
+  - image_path: /assets/images/ehc.png
+    title: "Jason Cuneo"
+    excerpt: "SECCDC 2021 Coach"
+
+  - image_path: /assets/images/ehc.png
+    title: "Daniel Tauritz"
+    excerpt: "Faculty Advisor"
+
 ---
 
 ## Who We Are
