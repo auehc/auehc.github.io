@@ -12,7 +12,7 @@ header:
 #excerpt: "Welcome to AUEHC's Site!"
 
 row1:
-  - image_path: assets/events/cyber-boot-camp-2021/SECCDCLogo.png
+  - image_path: assets/images/SECCDCLogo.png
     title: "Southeast Collegiate Cyber Defense Competition (SECCDC)"
     excerpt: "SECCDC Regional concluded on 3/11/21. Congratulations to Auburn for making it to Regional 2021 and having a good run."
     url: "https://cyberinstitute.kennesaw.edu/seccdc/"
