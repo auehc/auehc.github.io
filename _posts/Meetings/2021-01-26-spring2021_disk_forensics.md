@@ -1,4 +1,11 @@
-Disk Forensics
+---
+title:  "Disk Forensics Spring 2021"
+permalink: /meetings/Disk_Forensics_Spring_2021
+tags: meetings
+author: therealjman
+---
+
+For the first topic of the new year, we covered disk forensics. We discussed the layouts of common file systems and how to locate and recover files from them.
 
 # Topics 
 
@@ -41,3 +48,6 @@ The MFT is where the bulk of a forensicist's time will be spent while analyzing 
 ### File Recovery Process
 
 The first step in recovering files off a NTFS partition would be to determine where the partition begins. Then, you would look at the MBR to determine information such as bytes per sector and where the MFT entries begin. Then, you would determine where the system generated MFT entries and identify the user-generated entries. Then you would look at the file attributes to determine whether the files are resident or non-resident files. Also using the MFT attributes, you would determine the starting cluster and size of each non-resident file. Then once this information is known, you can use the *dd* command to carve the files in the same you would for a FAT partition.
+
+# Slideshow
+<iframe src="//docs.google.com/gview?url=http://auehc.github.io/assets/powerpoints/Disk_Forensics_Spring2021.pptx&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
