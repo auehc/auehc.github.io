@@ -12,10 +12,10 @@ header:
 #excerpt: "Welcome to AUEHC's Site!"
 
 row1:
-  - image_path: assets/images/SECCDCLogo.png
-    title: "Southeast Collegiate Cyber Defense Competition (SECCDC)"
-    excerpt: "SECCDC Regional concluded on 3/11/21. Congratulations to Auburn for making it to Regional 2021 and having a good run."
-    url: "https://cyberinstitute.kennesaw.edu/seccdc/"
+  - image_path: assets/images/boilerctf.png
+    title: "b01lers CTF"
+    excerpt: "This weekend our friends over at Purdue University will be hosting b01lers CTF. This is a jeopardy-style CTF with challenge difficulty ranging from beginner to intermediate. It begins at 5 PM CDT Saturday and ends at 5 PM CDT on Monday. They have created a CTF bootcamp going through the basics of each of the challenge categories."
+    url: "https://www.b01lers.net/"
     btn_label: "More Information"
 
 row2:
