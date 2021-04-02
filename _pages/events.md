@@ -24,13 +24,24 @@ past_events1:
     url: https://ctf.auburn.edu/
     btn_label: "More Information"
 
+  - image_path: assets/images/SECCDCLogo.png
+    title: "Southeast Collegiate Cyber Defense Competition (SECCDC)"
+    url: "https://cyberinstitute.kennesaw.edu/seccdc/"
+    btn_label: "More Information"
 
-upcoming_events1:
   - image_path: assets/events/cyber-boot-camp-2021/sandia-logo.png
     title: "Sandia National Laboratories: TracerFire"
-    excerpt: "As part of CBC '21, Sandia National Laboratories will be hosting CBC-SNL-2021 (TracerFire). TraceFire will be a cyber security event focused on teaching incident response skills"
     url: /events/cyber_boot_camp_2021
     btn_label: "More Information"
+
+
+upcoming_events1:
+  - image_path: assets/images/boilerctf.png
+    title: "b01lers CTF"
+    excerpt: "This weekend our friends over at Purdue University will be hosting b01lers CTF. This is a jeopardy-style CTF with challenge difficulty ranging from beginner to intermediate. It begins at 5 PM CDT Saturday and ends at 5 PM CDT on Monday. They have created a CTF bootcamp going through the basics of each of the challenge categories."
+    url: "https://www.b01lers.net/"
+    btn_label: "More Information"
+
 
 ---
 
