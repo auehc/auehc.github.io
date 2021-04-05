@@ -23,13 +23,13 @@ Memory can provide a lot of valuable information that can be difficult or imposs
 
 ## Volatility and Memory Analysis
 
-Volatility is a very popular open-source memory forensics tool that can be used to analyze memory and Windows registries. It supports a wide variety of plugins that add additional functionality. Some useful Volatility commands and information about important processes and things to look for are below.
+Volatility is a very popular open-source memory forensics tool that can be used to analyze memory and Windows registries. It supports a wide variety of plugins that add additional functionality. Some useful Volatility commands as well as information about important core Windows processes are listed below.
 
 ### Process Analysis Commands
 
 Volatility has a lot of built in commands that are very important for analyzing memory, and below are some of the first ones that should be run when looking at a memory dump. It is easiest to run Volatility if a PowerShell function is defined for it, as this makes running these commands much simpler.
 
-* **imageinfo** - This command provides a lot of useful information such as the date and time when the memory image was taken from the machine, the kernel build identifier, and the recommended profile to use with the image. This is the first command to run when analyzing an image, as this will show what Volatility profile should be used for the rest of the plugins.
+* **imageinfo** - This command provides a lot of useful information such as the date and time when the memory image was taken from the machine, the kernel build identifier, and the recommended profile to use with the image. This is the first command to run when analyzing an image, as this will show what Volatility profile should be used for the rest of the commands.
 
 * **pslist** - This is simply just a flat list of the processes running at the time the memory dump was made. This is typically the second step in analyzing an image, as this can let you spot any obviously malicious processes.
 
@@ -41,7 +41,7 @@ Volatility has a lot of built in commands that are very important for analyzing 
 
 ### Critical System Processes
 
-There are certain processes in Windows that are critical to normal system operation and it is important to know what they are and how many of them should be running. One common trick used to disguise malicious processes is to mimic the name of a good known process (e.g. svchost.exe instead of scvhost.exe). A list of core Windows processes is below, with a number stating how many of them should be running at any given time and a short description of each.
+There are certain processes in Windows that are critical to normal system operation and it is important to know what they are and how many of them should be running. One common trick used to disguise malicious processes is to mimic the name of a good known process (e.g. scvhost.exe instead of svchost.exe). A list of core Windows processes is below, with a number stating how many of them should be running at any given time and a short description of each.
 
 * **Crss.exe (1)** - The client/server runtime subsystem. It is responsible for creating and deleting processes and threads.
 
@@ -49,7 +49,7 @@ There are certain processes in Windows that are critical to normal system operat
 
 * **Svchost.exe (any number)** - These services are responsible for implementing shared service processes, where multiple services can share a process to conserve resource consumption. These should always be running under system32.exe and services.exe.
 
-* **Lsass.exe (1)** - The local security authority subsystem process, which enforces security policy, password verification, and creating process tokens. This process stores clear text password hashes, so it is a common target for injection. This process should always have winlogon.exe and wininit.exe.
+* **Lsass.exe (1)** - The local security authority subsystem process, which enforces security policy, password verification, and creating process tokens. This process stores clear text password hashes, so it is a common target for injection. This process should always have winlogon.exe and wininit.exe as its parents.
 
 * **Winlogon.exe (1)** - The interactive logon prompt, it initiates the screen saver, loads user profiles, and responds to the secure attention sequence. It also monitors files and directories for Windows File Protection.
 
@@ -65,7 +65,7 @@ Below is another list of Volatility commands and their functions. These are ones
 
 * **handles** - This command displays the handles for a given process. A handle is a reference to a resource when an application references a part of memory. It can show files, registry keys, mutexes, and other processes.
 
-* **cmdscan** or **consoles** - Both of these commands show the commands users ran on the system before the memory dump was made. They show the name of the console host process, the name of the application using the console, all of the commands, and the application process handle. The difference between them is ```cmdscan``` only shows the commands that the user ran, while ```consoles``` not only displays the command ran, but also whatever was printed to the console.
+* **cmdscan** or **consoles** - Both of these commands show the commands users ran on the system before the memory dump was made. They show the name of the console host process, the name of the application using the console, all of the commands, and the application process handle. The difference between them is ```cmdscan``` only shows the commands that the user ran, while ```consoles``` not only displays the commands ran, but also whatever was printed to the console.
 
 * **svcscan** - This displays all the running services at the time of the memory dump. It shows items such as the display name, the process ID, the path to the binary, and the current status of each service.
 
@@ -73,8 +73,12 @@ Below is another list of Volatility commands and their functions. These are ones
 
 * **netscan** - This command shows network artifacts in memory for Windows Vista, 2008 Server, and 7 versions. This finds TCP endpoints, UDP endpoints, and UDP listeners and displays information like the local and remote IP, local and remote port, and the time the connection was established.
 
-* **dump commands** - There are multiple commands in Volatility to dump files. This can be useful, as sending kernel drivers, cached files, or DLL files to an external can make it easier to search for specific information in them. Some common ones are as follows: ```moddump``` dumps extracts kernel drivers, ```procdump``` dumps a process's executable, and ```dlldump``` can be used to dump DLL files.
+* **dump commands** - There are multiple commands in Volatility to dump files. These are useful because sending kernel drivers, cached files, or DLL files to their own individual files can make it easier to search for specific information in them. Some common ones are as follows: ```moddump``` dumps extracts kernel drivers, ```procdump``` dumps a certain process's executable, and ```dlldump``` can be used to dump DLL files.
 
 ### Registry
 
 We finished our discussion on Volatility and how to use it to analyze memory with a short look at how Volatility can be used to look at the Windows registry. The Windows registry is a "central hierarchical database used to store information that is necessary to configure the system for one or more users, applications, and hardware devices.” Volatility has several commands to look at registry, with some important ones being ```autoruns```, ```userassist```, and ```shellbags```. The Windows registry is very complicated, so we may cover it in another discussion at a later date.
+
+# Slideshow
+
+<iframe src="//docs.google.com/gview?url=http://auehc.github.io/assets/powerpoints/Memory_Forensics_Spring2021.pptx&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
