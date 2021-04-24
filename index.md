@@ -12,10 +12,10 @@ header:
 #excerpt: "Welcome to AUEHC's Site!"
 
 row1:
-  - image_path: assets/images/boilerctf.png
-    title: "b01lers CTF"
-    excerpt: "This weekend our friends over at Purdue University will be hosting b01lers CTF. This is a jeopardy-style CTF with challenge difficulty ranging from beginner to intermediate. It begins at 5 PM CDT Saturday and ends at 5 PM CDT on Monday. They have created a CTF bootcamp going through the basics of each of the challenge categories."
-    url: "https://www.b01lers.net/"
+  - image_path: assets/events/cyber-boot-camp-2021/lanl-logo.png
+    title: "Cyberfire Puzzles 2021"
+    excerpt: "Cyberfire Puzzles is a two day event hosting a myriad of cybersecurity-based questions including computer forensics, cryptography, mathematics, general computer science, and more."
+    url: "https://cyberfire.energy.gov/puzzles/"
     btn_label: "More Information"
 
 row2:
