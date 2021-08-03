@@ -158,6 +158,51 @@ leadership_2021:
     title: "Daniel Tauritz"
     excerpt: "Faculty Advisor"
 
+  leadership_2021_fall:
+  - image_path: /assets/images/frog.png
+    title: "Charles Harper"
+    excerpt: "President"
+
+  - image_path: /assets/images/bio-photo-3.jpg
+    title: "Ethan Johnson"
+    excerpt: "Vice President"
+
+  - image_path: /assets/images/jon.png
+    title: "Jonathan Aldridge"
+    excerpt: "Secretary"
+
+  - image_path: /assets/images/ehc.png
+    title: "Mauren Baker"
+    excerpt: "Treasurer"
+
+  - image_path: /assets/images/ehc.png
+    title: "Victoria McLendon"
+    excerpt: "Public Relations"
+
+  - image_path: /assets/images/giraffe.png
+    title: "Zachary Leggett"
+    excerpt: "Technical Lead"
+
+  - image_path: /assets/images/ehc.png
+    title: "Tripp Isbell"
+    excerpt: "Officer"
+
+  - image_path: /assets/images/ehc.png
+    title: "Enoch Yang"
+    excerpt: "Webmaster"
+
+  - image_path: /assets/images/ehc.png
+    title: "Drew Springall"
+    excerpt: "Coach"
+
+  - image_path: /assets/images/ehc.png
+    title: "Jason Cuneo"
+    excerpt: "Coach"
+
+  - image_path: /assets/images/ehc.png
+    title: "Daniel Tauritz"
+    excerpt: "Faculty Advisor"
+
 ---
 
 ## Who We Are
@@ -177,7 +222,7 @@ In the 4 years we have been active, we have worked with national laboratories to
 
 ## Leadership
 
-{% include feature_row id="leadership_2021" %}
+{% include feature_row id="leadership_2021_fall" %}
 
 
 ## Past Leadership
