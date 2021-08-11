@@ -158,7 +158,7 @@ leadership_2021:
     title: "Daniel Tauritz"
     excerpt: "Faculty Advisor"
 
-  leadership_2021_fall:
+leadership_2021_fall:
   - image_path: /assets/images/frog.png
     title: "Charles Harper"
     excerpt: "President"
