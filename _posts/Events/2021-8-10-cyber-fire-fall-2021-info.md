@@ -1,5 +1,5 @@
 ---
-title:  "Cyber Fire Puzzles Fall 2021 Info"
+title:  "CyberFire Puzzles Fall 2021 Details"
 permalink: /events/cyber_fire_puzzles-fall_2021_info
 tags: events
 author: auehc
@@ -7,7 +7,7 @@ author: auehc
 
 <img src="/assets/cyberfire/cyberfire_logo.png">
 
-## What are Cyber Fire Puzzles?
+## What is CyberFire Puzzles?
 **CyberFire Puzzles** are beginner-friendly cyber security challenges created by the U.S. Department of Energy and Los Alamos National Laboratory The challenges cover a variety of cyber security topics and offer participants the opportunity to learn more about the field.
 
 ## Can I work with a team?
@@ -44,7 +44,7 @@ All fees are used for food and beverages provided during the event.
 
 ## I'm interested, how do I register?
 * For early-bird admission fee, register for the event before noon on August 19, 2021 here: [https://aub.ie/uyqTxv](https://aub.ie/uyqTxv)
-* Pay the early-bird fee through Venmo (@EHC-Treasurer)
+* Pay the early-bird fee through Venmo @EHC-Treasurer
 * Come to the event!
   - Bring a laptop (if you can)
   - Bring $15 if you have not paid the early-bird admission fee
