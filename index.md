@@ -15,7 +15,7 @@ row1:
   - image_path: assets/events/cyber-boot-camp-2021/lanl-logo.png
     title: "Cyberfire Puzzles 2021"
     excerpt: "Cyberfire Puzzles is a two day event hosting a myriad of cybersecurity-based questions including computer forensics, cryptography, mathematics, general computer science, and more."
-    url: "https://cyberfire.energy.gov/puzzles/"
+    url: "/events/cyber_fire_puzzles-fall_2021_info"
     btn_label: "More Information"
 
 row2:
