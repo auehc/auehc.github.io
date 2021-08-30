@@ -12,11 +12,11 @@ header:
 #excerpt: "Welcome to AUEHC's Site!"
 
 row1:
-  - image_path: assets/events/cyber-boot-camp-2021/lanl-logo.png
-    title: "Cyberfire Puzzles 2021"
-    excerpt: "Cyberfire Puzzles is a two day event hosting a myriad of cybersecurity-based questions including computer forensics, cryptography, mathematics, general computer science, and more."
-    url: "/events/cyber_fire_puzzles-fall_2021_info"
-    btn_label: "More Information"
+  - image_path: assets/images/ehc.png
+    title: "Kick Off Meeting"
+    excerpt: "Come join our first meeting for the Fall semester of 2021!"
+    url: "/calendar"
+    btn_label: "See Calendar"
 
 row2:
   - image_path: assets/images/ehc.png
