@@ -19,12 +19,6 @@ row1:
     btn_label: "See Calendar"
 
 row2:
-  - image_path: assets/events/cyber-boot-camp-2021/lanl-logo.png
-    title: "Cyberfire Puzzles 2021"
-    excerpt: "Cyberfire Puzzles is a two day event hosting a myriad of cybersecurity-based questions including computer forensics, cryptography, mathematics, general computer science, and more."
-    url: "/events/cyber_fire_puzzles-fall_2021_info"
-    btn_label: "More Information"
-
   - image_path: assets/images/ehc.png
     title: "AUCTF 2020 Repository"
     excerpt: "AUCTF 2020 has concluded come look at our source code!"
