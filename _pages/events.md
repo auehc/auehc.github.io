@@ -39,12 +39,18 @@ past_events1:
     url: "https://www.b01lers.net/"
     btn_label: "More Information"
 
-
-upcoming_events1:
   - image_path: assets/events/cyber-boot-camp-2021/lanl-logo.png
     title: "Cyber Fire Puzzles Fall 2021"
     excerpt: "Cyberfire Puzzles is a two day event hosting a myriad of cybersecurity-based questions including computer forensics, cryptography, mathematics, general computer science, and more."
     url: "/events/cyber_fire_puzzles-fall_2021_info"
+    btn_label: "More Information"
+
+
+upcoming_events1:
+  - image_path: assets/events/cptc/CPTCLogo_FullColor.png
+    title: "CPTC RFP Submission"
+    excerpt: "At its heart, CPTC is a bit different from several other collegiate Cybersecurity competitions. Instead of defending your network, searching for flags, or claiming ownership of systems, CPTC focuses on mimicking the activities performed during a real-world penetration testing engagement conducted by companies, professional services firms, and internal security departments around the world."
+    url: "https://cp.tc/"
     btn_label: "More Information"
 
 
