@@ -77,10 +77,10 @@ Find the hidden message within a normal looking file.
 
 Congratulations to team **admin** (\*ahem\* cheaters) for coming in first place, team **APT28** for coming in second, and team **cpt-175** for coming in third, but congrats as well to every team that participated! Below are two pictures showing the teams' scores by time and their total points.
 
-<img src="assets/cyberfire/cyberfire_fall2021_graph.png">
+<img src="/assets/cyberfire/cyberfire_fall2021_graph.png">
 
 ***Team's Scores by Time***
 
-<img src="assets/cyberfire/cyberfire_fall2021_points.png">
+<img src="/assets/cyberfire/cyberfire_fall2021_points.png">
 
 ***Breakdown of the Teams' Earned Points***
